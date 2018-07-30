@@ -14,6 +14,10 @@ Git repository for demonstration of experience and skills.
 10. [Merge branch 'master' of https://github.com/baeron/git-show-repo](https://github.com/baeron/git-show-repo/tree/1888034e105ca3bf7f1510c95be2a936e517f817)
 11. [Git GUI changes](https://github.com/baeron/git-show-repo/tree/a3350702902ce90a820796d6db232b61090e568f)
 12. [Test pull command without fetch in repo](https://github.com/baeron/git-show-repo/tree/91d7a9a7a61e432ae601a4bbe69ae0db8c99a735)
+13. [Update README.md](https://github.com/baeron/git-show-repo/tree/b1c8a886786f786449f6af4e0ae2280d81fdc570)
+14. [Merge pull request #1 from baeron/new-dev-brunch](https://github.com/baeron/git-show-repo/tree/0efbf7f244a3c0d1f04f930780dab18ea8643600)
+### Create new branch **baranoff_branch**
+
 
 ## Authors
 
