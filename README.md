@@ -17,7 +17,11 @@ Git repository for demonstration of experience and skills.
 13. [Update README.md](https://github.com/baeron/git-show-repo/tree/b1c8a886786f786449f6af4e0ae2280d81fdc570)
 14. [Merge pull request #1 from baeron/new-dev-brunch](https://github.com/baeron/git-show-repo/tree/0efbf7f244a3c0d1f04f930780dab18ea8643600)
 ### Create new branch **baranoff_branch**
-15. [Change README.md file in baranoff_branch](https://)
+15. [Change README.md file in baranoff_branch](https://github.com/baeron/git-show-repo/tree/87c8bae7580f58c6795d710e1f0f2beb3298e47e)
+16. [Change README.md gile in baranoff_branch](https://github.com/baeron/git-show-repo/tree/bde0c76c3ff280fe4d8abe09c97b6d686fbde985)
+### Return to master branch
+17. [Merge pull request #2 from baeron/baranoff_branch](https://github.com/baeron/git-show-repo/tree/8969705c5bf533558238417de44428837d2d952c)
+18. [Change commit path in master]() 
 
 ## Authors
 
